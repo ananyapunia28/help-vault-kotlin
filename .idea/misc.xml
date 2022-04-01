@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioX/help-vault-kotlin/app/src/main/res/layout/activity_sign_up.xml" value="0.11096014492753623" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioX/help-vault-kotlin/app/src/main/res/layout/fragment_home.xml" value="0.19635416666666666" />
         <entry key="..\:/android/help-vault-kotlin/app/src/main/res/layout/activity_help_description.xml" value="0.2421875" />
         <entry key="..\:/android/help-vault-kotlin/app/src/main/res/layout/activity_help_requests.xml" value="0.2421875" />
         <entry key="..\:/android/help-vault-kotlin/app/src/main/res/layout/activity_login.xml" value="0.2421875" />
